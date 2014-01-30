@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-Sample::Application.config.secret_key_base = 'c4817843104470c9d159fdecea590d87038fe28bdfd92564b4fc3384ec091cfa33326ae1d012659dd12cf72c9cfb468897e870e7d3dca2ecb6ffa206f1ae5dbe'
+RubyApplicationRepo::Application.config.secret_key_base = '926d71a5f34b1658e983d14c99c147dc7bfd2beb116ae10d36bdcf992a91b8ed40e97f7e9f4161762e0e26c90fbf0564fbd2b59737fe82d03c21152c0ba31359'
